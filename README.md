@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![Muhramadoni](github-header-banner.png)
+![Muhramadoni](github-header-banner2.png)
 
 <!--
 **Muhramadoni/Muhramadoni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
