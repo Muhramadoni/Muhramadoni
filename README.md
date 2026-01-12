@@ -16,3 +16,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+#### 👋 About Me
+
+I am a **UI/UX Designer** and **Full-Stack Developer** with a strong focus on delivering intuitive, clean, and user-centered digital experiences. I am experienced in translating ideas into well-structured designs and functional applications by combining a refined visual sensibility with solid technical expertise. I place a high value on usability, consistency, and clarity in every product I develop, and I continuously explore modern design methodologies and web technologies to enhance the quality and impact of my work.
