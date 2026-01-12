@@ -44,7 +44,3 @@ I am a **UI/UX Designer** and **Full-Stack Developer** with a strong focus on de
 </picture>
 
 ###
-
-<img src="https://raw.githubusercontent.com/Muhramadoni/Muhramadoni/output/snake.svg" alt="Snake animation" />
-
-###
