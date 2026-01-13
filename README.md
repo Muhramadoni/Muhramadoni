@@ -32,9 +32,9 @@ I am a **UI/UX Designer** and **Full-Stack Developer** with a strong focus on de
 #### 📊 GitHub Stats: ![](https://github-readme-stats.vercel.app/api?username=Muhramadoni&theme=merko&hide_border=false&include_all_commits=true&count_private=true)<br/>
 
 ![](https://nirzak-streak-stats.vercel.app/?user=Muhramadoni&theme=merko&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Muhramadoni&theme=merko&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Muhramadoni&theme=merko)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Muhramadoni&theme=merko&hide_border=false&include_all_commits=true&count_private=true&layout=compact) 
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Muhramadoni&theme=merko) 
+![Doni's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=Muhramadoni&show_icons=true&theme=merko)
 
 #### 🎮 Play Game With Me:
 
