@@ -35,11 +35,22 @@ I am a **UI/UX Designer** and **Full-Stack Developer** with a strong focus on de
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-#### 📊 GitHub Stats: 
-![](https://github-readme-stats.vercel.app/api?username=Muhramadoni&theme=merko&hide_border=false&include_all_commits=true&count_private=true)
-![Doni's GitHub Rank](https://github-readme-stats-fast.vercel.app/api?username=Muhramadoni&show_icons=true&theme=merko)
-![](https://nirzak-streak-stats.vercel.app/?user=Muhramadoni&theme=merko&hide_border=false)
+#### 📊 GitHub Stats: )
+![](https://github-readme-stats.vercel.app/api?username=Muhramadoni&theme=merko&hide_border=false&include_all_commits=false&count_private=false)<br/>
+
+![](https://nirzak-streak-stats.vercel.app/?user=Muhramadoni&theme=merko&hide_border=false)<br/>
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Muhramadoni&theme=merko&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>
+
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Muhramadoni&theme=merko) 
+
+
+# 📊 GitHub Stats:
+
+
+
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 #### 🎮 Play Game With Me:
 
